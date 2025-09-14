@@ -12,5 +12,5 @@ Este repositório contém:
   * _TCC_Etapa5.R_ (Análise das Séries Temporais de Temperatura do Platô Inferior);
   * _TCC_Etapa6.R_ (Análise das Séries Temporais de Temperatura do Platô Superior);
   * _TCC_Etapa7.R_ (Análise das Séries Temporais de Temperatura do Platô Inferior e Superior de forma conjunta);
-* Gráficos gerados neste trabalho armazenadas na pasta _Imagens_.
-* A base de dados coletados pelo sistema MES utilizada no trabalho está armazenada no arquivo _pre20241004.bak_ no Google Drive: https://drive.google.com/drive/folders/1ZNwBqjeCKqnaT2JCNTE4Dy__Ew_ye0rE?usp=sharing (é necessário utilizar um servidor SQL);
+* Gráficos gerados neste trabalho armazenadas na pasta _Imagens_;
+* A base de dados coletados pelo sistema MES utilizada no trabalho está armazenada no arquivo _pre20241004.bak_ no Google Drive: https://drive.google.com/drive/folders/1ZNwBqjeCKqnaT2JCNTE4Dy__Ew_ye0rE?usp=sharing (é necessário utilizar um servidor SQL).
