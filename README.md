@@ -13,4 +13,4 @@ Este repositório contém:
   * _TCC_Etapa5.R_ (Análise das Séries Temporais de Temperatura do Platô Inferior);
   * _TCC_Etapa6.R_ (Análise das Séries Temporais de Temperatura do Platô Superior);
   * _TCC_Etapa7.R_ (Análise das Séries Temporais de Temperatura do Platô Inferior e Superior de forma conjunta);
-* Gráficos e Imagens utilizadas na produção deste trabalho armazenadas na pasta _Imagens_.
+* Gráficos gerados neste trabalho armazenadas na pasta _Imagens_.
